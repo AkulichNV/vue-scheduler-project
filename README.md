@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-scheduler-project
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# vue-scheduler-project
+>>>>>>> fb95c53 (Initial commit)
